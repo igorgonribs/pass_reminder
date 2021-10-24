@@ -1,0 +1,16 @@
+[
+  {
+    "accessName": "Test Access 1",
+    "username":"username1",
+    "password": "secretPassword1"
+  },
+  {
+    "accessName": "Test Access 2",
+    "username":"username2",
+    "password": "secretPassword2"
+  },{
+    "accessName": "Test Access 3",
+    "username":"username3",
+    "password": "secretPassword3"
+  }
+]
